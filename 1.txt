@@ -1,2 +1,3 @@
 hi all we are learning git
 there was a weekend last day
+a = 1
